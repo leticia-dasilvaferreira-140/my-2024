@@ -1,22 +1,97 @@
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+.titulo2{
+    color: linear-gradient(
+        180deg,
+        rgba(173, 0, 255, 1) 39.57333564758301%,
+        rgba(5, 0, 255, 1) 39.58333432674408%,
+        rgba(255, 255, 255, 0.73) 51.5625%,
+        rgba(0, 255, 194, 0.42) 73.95833134651184%,
+        rgba(0, 0, 0, 0) 100%)
+
+}
+
+
+
+.titulo1{
+
+    font-size: 50px;
     
-    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-    <title>Metas 2024</title>
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+        width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 40px;
+    position: relative;
+    }
+    
+    
+    .titulo2{
+    
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 40px;
+    position: relative;
+    }
+    
+    
+    .titulo3{
+    
+     font-size: 30px;
+    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        width: 100px;
+      height: 50px;
+        left: 645px;
+        top: 40px;
+        position: relative;
+    }
+    
+    
+    
+    .titulo4{
+    
+    
+        font-size: 30px;
+    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        height: 50px;
 
-<div class="fundo">
-</head>
-<body>
-    <div class="fundo">
-<div class="titulo1">Meus</div>
-<div class="titulo2">Objetivos</div>
-<div class="titulo3">para</div>
-<div class="titulo4">o</div>
-<div class="titulo5">ANO</div>
+        left: 766px;
+        top: -90px;
+        position: relative;
+        }
+        
+       
+    
+    .titulo5{
 
-</body>
-</html>
+        font-size: 100px;
+        font-family: 'Times New Roman', Times, serif;
+        width: 100px;
+        height: 50px;
+        left: 738px;
+        top: -105px;
+        position: relative;
+        }
+             
+    
+    .fundo{
+        width: 100%;
+        background-color: rgb(215, 234, 250);
+     position: absolute;
+        overflow: hidden;
+        height: 100%;
+    
+    
+    }
+    
+    
+    
+    
+    
